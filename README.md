@@ -4,22 +4,14 @@ This repository contains some small projects and exercises done on the Modern Re
 
 ## What i've learned?
 
-
+![](.gifs/teste.gif)
 ```bash
 pip install foobar
 ```
 
 ## Final thoughts
 
-```python
-import foobar
-
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
-```
+It was an incredible and fun experience. I learned the most essentials concepts of react by a great teacher and i really enjoyed all the ReactJS architecture.
 
 ## Special thanks
 A special thanks to [@colt](https://github.com/Colt) for sharing this awesome content and knowledge.
-
-[MIT](https://choosealicense.com/licenses/mit/)
