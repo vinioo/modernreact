@@ -11,22 +11,27 @@ This repository contains some small projects and exercises done on the Modern Re
 - Best pratices using arrow functions.
 - Lifecycle methods: ComponentDidMount, ComponentWillUnmount, ComponentDidUpdate and some others.
 - Load data via ajax and via async functions.
-- Cool Javascript functions like: some, repeat, from, flat
+- Cool Javascript functions like: some, repeat, from, flat.
 - The proper way of destructuring.
 - Passing down functions to children components.
 - Update state when form input changes.
 - High order components
 - Material UI
+- JSS and WithStyles
+- React Hooks, useState, useEffect and how to make reusable components.
+- React context API
+- NextJS
+- How to setup a custom webpack.
 
 - A lot of some other stuffs that i need to update here.
 
-* ## Some Liberaries used
-# React router dom
+## Some Liberaries used
+### React router dom
 - Route Props, Browse Router, Link, Switch exact path, relative paths.
 - When to use render, and when to use component in a route.
-# Rc-Slider
+### Rc-Slider
 - Library to create some cool sliders
-# Chroma JS
+### Chroma JS
 - Awesome library to manipulate everything on a color.
 
 I will update this readme soon. It was a lot of things done!
