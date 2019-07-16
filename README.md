@@ -21,12 +21,12 @@ This repository contains some small projects and exercises done on the Modern Re
 - A lot of some other stuffs that i need to update here.
 
 * ## Some Liberaries used
-- #React router dom
+# React router dom
 - Route Props, Browse Router, Link, Switch exact path, relative paths.
 - When to use render, and when to use component in a route.
-- # Rc-Slider
+# Rc-Slider
 - Library to create some cool sliders
-- # Chroma JS
+# Chroma JS
 - Awesome library to manipulate everything on a color.
 
 I will update this readme soon. It was a lot of things done!
