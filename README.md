@@ -19,7 +19,7 @@ This repository contains some small projects and exercises done on the Modern Re
 - Material UI
 - JSS and WithStyles
 - React Hooks, useState, useEffect and how to make reusable components.
-- React context API
+- React context API, provider and reducer
 - NextJS
 - How to setup a custom webpack.
 
