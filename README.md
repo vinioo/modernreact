@@ -41,6 +41,7 @@ I will update this readme soon. It was a lot of things done!
 ## Projects done
 # Color Palette Generator
 This course had a lot of projects and things to build. The biggest, a full color palette maker, is uploaded to [this](https://github.com/vinioo/colorproject) repository.
+![](.gifs/palette.gif)
 
 # Coin Flipper
 - Not an exciting exercise, but good to know and understand state and props management.
@@ -72,16 +73,14 @@ This course had a lot of projects and things to build. The biggest, a full color
 
 # Card Dealer
 - A card dealer thingy to learn lifecycle methods.
-![](.gifs/card.gif)
+![](.gifs/carfd.gif)
 
 # Lights Out Game
 - A cool lights out game.
 ![](.gifs/lightsout.gif)
 
 
-
 ## Final thoughts
-
 It was an incredible and fun experience. I learned the most essentials concepts of react by a great teacher and i really enjoyed all the ReactJS architecture.
 
 ## Special thanks
