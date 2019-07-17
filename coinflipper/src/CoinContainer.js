@@ -11,7 +11,7 @@ export default class CoinContainer extends Component {
             },
             {
                 side: 'tails',
-                imgSrc: 'https://tinyurl.com/react-coin-tails-jpg'
+                imgSrc: 'https://i.ebayimg.com/images/g/GFMAAOSwgY9XflpA/s-l640.jpg'
             }
         ]
     };
