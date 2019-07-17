@@ -38,44 +38,44 @@ This repository contains some small projects and exercises done on the Modern Re
 
 I will update this readme soon. It was a lot of things done!
 
-## Projects done
-# Color Palette Generator
+# Projects done
+## Color Palette Generator
 This course had a lot of projects and things to build. The biggest, a full color palette maker, is uploaded to [this](https://github.com/vinioo/colorproject) repository.
 ![](.gifs/palette.gif)
 
-# Coin Flipper
+## Coin Flipper
 - Not an exciting exercise, but good to know and understand state and props management.
 ![](.gifs/flipcoin.gif)
 
-# Color Box Maker
+## Color Box Maker
 - Simple, but again, a nice exercise to start creating dynamic stuff on React.
 ![](.gifs/colorboxmaker.gif)
 
-# Color Boxes
+## Color Boxes
 - A cool exercise. I really enjoy it.
 ![](.gifs/color.gif)
 
-# Dad Jokes
+## Dad Jokes
 - A more complex exercise, it receives jokes from an API and has a vote system.
 ![](.gifs/dadjokes.gif)
 
-# Dice
+## Dice
 - A simple game to roll the dice!
 ![](.gifs/dice.gif)
 
-# Pokedex Generator
+## Pokedex Generator
 - It randomly generates two hands and exp from each pokemon and say who hand wins.
 ![](.gifs/pokemon.gif)
 
-# Hangman
+## Hangman
 - A classic hangman hame! 
 ![](.gifs/hangman.gif)
 
-# Card Dealer
+## Card Dealer
 - A card dealer thingy to learn lifecycle methods.
 ![](.gifs/carfd.gif)
 
-# Lights Out Game
+## Lights Out Game
 - A cool lights out game.
 ![](.gifs/lightsout.gif)
 
