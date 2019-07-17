@@ -40,7 +40,7 @@ I will update this readme soon. It was a lot of things done!
 
 # Projects done
 ## Color Palette Generator
-This course had a lot of projects and things to build. The biggest, a full color palette maker, is uploaded to [this](https://github.com/vinioo/colorproject) repository.
+This course had a lot of projects and things to build. The biggest, a full color palette maker, is uploaded to [this](https://github.com/vinioo/colorproject) repository, and you can access it [here](https://vinioo.github.io/colorproject)
 ![](.gifs/palette.gif)
 
 ## Coin Flipper
