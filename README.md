@@ -10,7 +10,7 @@ This repository contains some small projects and exercises done on the Modern Re
 - Many ways to bind
 - Best pratices using arrow functions.
 - Lifecycle methods: ComponentDidMount, ComponentWillUnmount, ComponentDidUpdate and some others.
-- Load data via ajax and via async functions.
+- Load data via ajax, axios and async functions.
 - Cool Javascript functions like: some, repeat, from, flat.
 - The proper way of destructuring.
 - Passing down functions to children components.
@@ -33,12 +33,14 @@ This repository contains some small projects and exercises done on the Modern Re
 - Library to create some cool sliders
 ### Chroma JS
 - Awesome library to manipulate everything on a color.
+### React Transition Group
+- Awesome library to create CSS transitions on react.
 
 I will update this readme soon. It was a lot of things done!
 
 ## Projects done
 This course had a lot of projects and things to build. The biggest, a full color palette maker, is uploaded to [this](https://github.com/vinioo/colorproject) repository.
-<!-- ![](.gifs/teste.gif) -->
+![](.gifs/teste.gif | width=100)
 
 
 ## Final thoughts
