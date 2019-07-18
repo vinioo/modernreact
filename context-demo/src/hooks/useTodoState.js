@@ -9,9 +9,7 @@ export default initialTodos => {
       setTodos([...todos, { id: uuid(), task: newTodoText, completed: false }]);
     },
     removeTodo: todoId => {
-      //filter out removed todo
       const updatedTodos = todos.filter(todo => todo.id !== todoId);
-      //call setTodos with new todos array
       setTodos(updatedTodos);
     },
     toggleTodo: todoId => {
