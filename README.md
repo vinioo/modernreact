@@ -22,8 +22,7 @@ This repository contains some small projects and exercises done on the Modern Re
 - React context API, provider and reducer
 - NextJS
 - How to setup a custom webpack.
-
-- A lot of some other stuffs that i need to update here.
+- And much more!
 
 ## Some Liberaries used
 ### React router dom
@@ -35,8 +34,6 @@ This repository contains some small projects and exercises done on the Modern Re
 - Awesome library to manipulate everything on a color.
 ### React Transition Group
 - Awesome library to create CSS transitions on react.
-
-I will update this readme soon. It was a lot of things done!
 
 # Projects done
 ## Color Palette Generator
